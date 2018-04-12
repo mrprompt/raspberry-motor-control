@@ -14,4 +14,4 @@ motor.py right 10
 ```console
 motor.py console 0
 ```
-* The comands from console is the same: left X or right Y
+* The commands from console is the same: left X or right Y
